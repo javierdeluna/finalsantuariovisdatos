@@ -1,4 +1,1 @@
-# finalvisdatos
-# finalvisdatos
-# finalmoviesvisdatos
 # finalsantuariovisdatos
